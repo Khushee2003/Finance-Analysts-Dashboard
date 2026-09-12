@@ -1,0 +1,13 @@
+movie_id,title,budget,revenue,currency,unit,name,language_id,profit_min
+136,"Bajrangi Bhaijaan",900.00,11690.00,INR,Millions,Hindi,1,10790.0
+130,PK,850.00,8540.00,INR,Millions,Hindi,1,7690.0
+131,Sanju,1.00,5.90,INR,Billions,Hindi,1,4900.0
+108,"3 Idiots",550.00,4000.00,INR,Millions,Hindi,1,3450.0
+135,"The Kashmir Files",250.00,3409.00,INR,Millions,Hindi,1,3159.0
+110,"Bajirao Mastani ",1.40,3.50,INR,Billions,Hindi,1,2100.0
+107,"Dilwale Dulhania Le Jayenge",400.00,2000.00,INR,Millions,Hindi,1,1600.0
+139,"Race 3",1.80,3.10,INR,Billions,Hindi,1,1300.0
+128,"Taare Zameen Par",120.00,1350.00,INR,Millions,Hindi,1,1230.0
+109,"Kabhi Khushi Kabhie Gham",390.00,1360.00,INR,Millions,Hindi,1,970.0
+140,Shershaah,500.00,950.00,INR,Millions,Hindi,1,450.0
+129,"Munna Bhai M.B.B.S.",100.00,410.00,INR,Millions,Hindi,1,310.0
